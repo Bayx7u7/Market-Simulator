@@ -13,5 +13,6 @@ public partial class Urun : Node
 
 	public override void _Process(double delta)
 	{
+		Console.Write("hello world");
 	}
 }
